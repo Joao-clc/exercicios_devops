@@ -7,9 +7,6 @@ package exercicio01;
 import java.util.Locale;
 import java.util.Scanner;
 
-/**
- * Classe principal para interagir com o usuário e usar o ConversorTemperatura.
- */
 public class Main {
     public static void main(String[] args) {
 
